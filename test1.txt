@@ -1,7 +1,1 @@
-abcd
-<<<<<<< .merge_file_6zeh08
-1234
-=======
-123
-1234
->>>>>>> .merge_file_Nuu2Mr
+qqq
