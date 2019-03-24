@@ -6,4 +6,9 @@ qqq
 =======
 远程修改
 >>>>>>> .merge_file_ILNFVG
+<<<<<<< .merge_file_DS1YXz
 重新演示冲突12345
+=======
+重新演示冲突1234
+重新演示冲突123456
+>>>>>>> .merge_file_jtIv4N
